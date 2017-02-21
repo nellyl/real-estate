@@ -1,5 +1,29 @@
 body {
-    background: #34495e;
+color:black;
+background-color:white;
+background-image:url(94803684.jpg);
+background-size: cover;
+}
+
+.button {
+    background-color: #008CBA; 
+    border: none;
     color: white;
-    padding: 50px;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input { 
+    height: 50px;
+    width: 30%;
+    box-sizing: border-box;
+    border: none;
+    font-size: 19px;
+}
+
+input, input[placeholder]{
+    text-align:center;
 }
